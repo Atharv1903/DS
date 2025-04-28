@@ -1,0 +1,4 @@
+Terminal
+
+javac Tring.java
+java Tring
